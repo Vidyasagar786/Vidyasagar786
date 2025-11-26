@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @Vidyasagar786
-
+OPENAI_API_KEY='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'
 I’m a passionate GenAI Engineer and Data Scientist specializing in developing and deploying cutting-edge AI solutions. With solid experience in Large Language Models (LLMs) like LLaMA 2, GPT-4, and Google Gemma, I thrive on solving complex challenges in AI and cloud infrastructure.
 
 ## 👀 I’m interested in
